@@ -1,0 +1,6 @@
+framework module Pods_BmobDemo {
+  umbrella header "Pods-BmobDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
